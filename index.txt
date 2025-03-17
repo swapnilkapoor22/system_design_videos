@@ -10,3 +10,4 @@ Google India Engineers in a Mock System Design Interview - https://www.youtube.c
 TinyURL System Design | URL Shortner System Design Interview Question | Bitly System Design - https://www.youtube.com/watch?v=AVztRY77xxA
 Google system design interview: Design TikTok (with ex-Google EM) - https://www.youtube.com/watch?v=NHqdG-aZxOk
 System Design Interview: Design an Ad Click Aggregator w/ a Ex-Meta Staff Engineer - https://www.youtube.com/watch?v=Zcv_899yqhI
+I spent 1000+ hours on System Design, so you don't have to. - https://www.youtube.com/watch?v=jc285TeGKAE
