@@ -9,3 +9,4 @@ Amazon System Design Interview: Design Parking Garage - https://www.youtube.com/
 Google India Engineers in a Mock System Design Interview - https://www.youtube.com/watch?v=S1DvEdR0iUo
 TinyURL System Design | URL Shortner System Design Interview Question | Bitly System Design - https://www.youtube.com/watch?v=AVztRY77xxA
 Google system design interview: Design TikTok (with ex-Google EM) - https://www.youtube.com/watch?v=NHqdG-aZxOk
+System Design Interview: Design an Ad Click Aggregator w/ a Ex-Meta Staff Engineer - https://www.youtube.com/watch?v=Zcv_899yqhI
