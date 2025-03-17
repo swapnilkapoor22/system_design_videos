@@ -3,11 +3,11 @@ youtube videos on system design. explanations, tutorials, mock interviews, etc
 
 LIST:
 
-System Design Mock Interview: Design a Rate Limiter (with Meta Engineering Manager) - https://www.youtube.com/watch?v=SgWb6tWx3S8
-Design Tinder - System Design Interview (with TikTok Senior Engineer) - https://www.youtube.com/watch?v=iyLqwyFL0Zc
-System Design Interview: Design Amazon Prime Video - https://www.youtube.com/watch?v=PuU_0esYyhg
-System Design Interview: TikTok architecture with - https://www.youtube.com/watch?v=07BVxmVFDGY
-System Design Interview Walkthrough: Design Twitter - https://www.youtube.com/watch?v=Nfa-uUHuFHg
+1. System Design Mock Interview: Design a Rate Limiter (with Meta Engineering Manager) - https://www.youtube.com/watch?v=SgWb6tWx3S8
+2. Design Tinder - System Design Interview (with TikTok Senior Engineer) - https://www.youtube.com/watch?v=iyLqwyFL0Zc
+3. System Design Interview: Design Amazon Prime Video - https://www.youtube.com/watch?v=PuU_0esYyhg
+4. System Design Interview: TikTok architecture with - https://www.youtube.com/watch?v=07BVxmVFDGY
+5. System Design Interview Walkthrough: Design Twitter - https://www.youtube.com/watch?v=Nfa-uUHuFHg
 Design a Rate Limiter | Systems Design Interview Questions With Ex-Google SWE - https://www.youtube.com/watch?v=VzW41m4USGs
 Google system design interview: Design Spotify (with ex-Google EM) - https://www.youtube.com/watch?v=_K-eupuDVEc
 Amazon System Design Interview: Design Parking Garage - https://www.youtube.com/watch?v=NtMvNh0WFVM
