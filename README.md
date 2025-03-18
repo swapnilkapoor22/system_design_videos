@@ -18,3 +18,4 @@ LIST:
 13. I spent 1000+ hours on System Design, so you don't have to. - https://www.youtube.com/watch?v=jc285TeGKAE
 14. Design a Basic Search Engine (Google or Bing) | System Design Interview Prep - https://www.youtube.com/watch?v=0LTXCcVRQi0
 15. Design Google Drive or Dropbox (Cloud File Sharing Service) | System Design Interview Prep - https://www.youtube.com/watch?v=jLM1nGgsT-I
+16. Design a Simple Authentication System | System Design Interview Prep - https://www.youtube.com/watch?v=uj_4vxm9u90
