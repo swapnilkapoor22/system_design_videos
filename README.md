@@ -19,3 +19,4 @@ LIST:
 14. Design a Basic Search Engine (Google or Bing) | System Design Interview Prep - https://www.youtube.com/watch?v=0LTXCcVRQi0
 15. Design Google Drive or Dropbox (Cloud File Sharing Service) | System Design Interview Prep - https://www.youtube.com/watch?v=jLM1nGgsT-I
 16. Design a Simple Authentication System | System Design Interview Prep - https://www.youtube.com/watch?v=uj_4vxm9u90
+17. BookMyShow Low level design with code & Concurrency | Movie Ticket Booking System Design - https://www.youtube.com/watch?v=t2FiaSThCw8
