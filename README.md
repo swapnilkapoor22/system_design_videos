@@ -22,3 +22,4 @@ LIST:
 17. BookMyShow Low level design with code & Concurrency | Movie Ticket Booking System Design - https://www.youtube.com/watch?v=t2FiaSThCw8
 18. Design an Email Automation Platform (Klaviyo, Mailchimp) | System Design - https://www.youtube.com/watch?v=0Xc2YB2n1nw
 19. System Design Interview: Architecture of Amazon, Flipkart like e-commerce system with ‪@gkcs‬ - https://www.youtube.com/watch?v=2BWr0fsDSs0
+20. System Design for Twitter (Timeline, Live Updates, Tweeting) | System Design Interview Prep - https://www.youtube.com/watch?v=_QqpD0w8oPM
